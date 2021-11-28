@@ -5,10 +5,10 @@ Add your final project files here. Remember
 - You can add other files as needed (in any format you'd like)
 - Every participant must upload the same pdf file
 
-#Contributors
+# Contributors
 * Stephannia Kabanakis and Victoria Berkowitz
 
-#TODO: 
+# TODO: 
 * Make PDF of presentation
 * Make PDF of Code 
 * Make PDF of website
