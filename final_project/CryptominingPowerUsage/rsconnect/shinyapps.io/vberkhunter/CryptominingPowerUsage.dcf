@@ -1,0 +1,13 @@
+name: CryptominingPowerUsage
+title: CryptominingPowerUsage
+username:
+account: vberkhunter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5216123
+bundleId: 5300863
+url: https://vberkhunter.shinyapps.io/CryptominingPowerUsage/
+when: 1638078507.51084
+lastSyncTime: 1638078507.51084
+asMultiple: FALSE
+asStatic: FALSE
