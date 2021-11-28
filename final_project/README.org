@@ -1,6 +1,18 @@
-* Final project
+# Final project
 
 Add your final project files here. Remember
 - You must have a pdf file with your actual submission
 - You can add other files as needed (in any format you'd like)
 - Every participant must upload the same pdf file
+
+# Contributors
+* Stephannia Kabanakis and Victoria Berkowitz
+
+# TODO: 
+* Make PDF of presentation
+* Make PDF of Code 
+* Make PDF of website
+
+# Website/Coding Portion Link: 
+* https://vberkhunter.shinyapps.io/CryptominingPowerUsage/
+
