@@ -1,4 +1,4 @@
-* Final project
+# Final project
 
 Add your final project files here. Remember
 - You must have a pdf file with your actual submission
